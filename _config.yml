@@ -2,7 +2,7 @@ title:              Anshul Madnawat
 email:              anshul.madnawat@gmail.com
 description:        Personal Blog
 author:             Anshul Madnawat
-baseurl:            ""
+baseurl:            "pblog"
 url:                ""
 
 # Social Profiles
@@ -18,7 +18,7 @@ linkedin_username:
 # Build settings
 markdown:           kramdown
 paginate:           5
-paginate_path:      "/posts/page:num/"
+paginate_path:      
 plugins:
   - jekyll-feed
   - jekyll-paginate
