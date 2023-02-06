@@ -2,8 +2,8 @@ title:              Anshul Madnawat
 email:              anshul.madnawat@gmail.com
 description:        Personal Blog
 author:             Anshul Madnawat
-baseurl:            "pblog"
-url:                ""
+baseurl:            ""
+url:                "pblog"
 
 # Social Profiles
 twitter_username:   
