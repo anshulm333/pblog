@@ -3,7 +3,6 @@ layout: post
 title: "I have a Dream"
 subtitle: "Martin Luther King's Legendary Speech"
 background: '/img/posts/i-have-a-dream/martin-luther-king.jpg'
-permalink: "/i-have-a-dream"
 ---
 
 <p>I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation. [applause]</p>
