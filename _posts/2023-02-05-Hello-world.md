@@ -40,7 +40,7 @@ background: '/img/posts/i-have-a-dream/martin-luther-king.jpg'
 
 <blockquote class="blockquote">I have a dream that one day every valley shall be exalted (Yes), every hill and mountain shall be made low, the rough places will be made plain (Yes), and the crooked places will be made straight (Yes), and the glory of the Lord shall be revealed [cheering], and all flesh shall see it together. (Yes Lord)</blockquote>
 
-<img class="img-fluid" src="/img/posts/i-have-dream/post-speech.jpg" alt="speech-image">
+<img class="img-fluid" src="pblog/img/posts/i-have-dream/post-speech.jpg" alt="speech-image">
 
 <p>This is our hope. (Yes, Yes) This is the faith that I go back to the South with. (Yes) With this faith (My Lord) we will be able to hew out of the mountain of despair a stone of hope. (Yes, All right) With this faith (Yes) we will be able to transform the jangling discords of our nation (Yes) into a beautiful symphony of brotherhood. (Talk about it) With this faith (Yes, My Lord) we will be able to work together, to pray together, to struggle together, to go to jail together (Yes), to stand up for freedom together (Yeah), knowing that we will be free one day. [sustained applause]</p>
 
