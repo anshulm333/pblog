@@ -12,5 +12,5 @@ Html, CSS, Jekyll
 ## View on github Pages
 
  Click on the link given below to view site:
- https://anshulm333.github.io/blog/
+ https://anshulm333.github.io/pblog/
 
